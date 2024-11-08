@@ -7,6 +7,11 @@ This notification widget allows you to display custom alerts in various position
 This notification widget allows you to display custom alerts in various positions on the screen with different styles and effects. Ideal for enhancing user experience, the widget supports customizable positioning, styles, notification types, and additional effects, such as animations and progress bars.
 
 ### Instructions:
+------------
+
+### NOTE: import toastification: ^2.3.0
+
+------------
 
 ##### # Parameters:
 
